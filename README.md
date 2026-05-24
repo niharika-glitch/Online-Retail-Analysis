@@ -10,7 +10,7 @@ In the highly competitive online retail sector, understanding customer behavior 
 
 ---
 
-## 🛠️ Tech Stack & Architecture
+## Tech Stack & Architecture
 **Data Engineering & ETL:** Python, Pandas, NumPy
 **Statistical Modeling & ML:** Scikit-learn (K-Means Clustering), Matplotlib, Seaborn
 **Business Intelligence:** Power BI (DAX, Interactive Data Storytelling) 
@@ -18,7 +18,7 @@ In the highly competitive online retail sector, understanding customer behavior 
 
 ---
 
-## 🚀 Key Project Workflow
+## Key Project Workflow
 
 ### 1. Robust ETL Pipeline & Feature Engineering
 Handled a massive dataset of **500K+ raw transactions**, resolving critical data quality issues including missing values, order cancellations, duplicates, and anomalous negative quantities.
@@ -37,7 +37,7 @@ Built an enterprise-grade interactive dashboard visualizing revenue trends, top 
 
 ---
 
-## 🎯 Business Value & Strategic Recommendations
+## Business Value & Strategic Recommendations
 Rather than just delivering raw code, this analysis provides high-level business frameworks designed to optimize corporate strategy
 
 **Inventory Optimization:** Isolated the top 10 revenue-generating products to streamline supply chain and stock allocation, preventing capital lock-up in slow-moving inventory.
